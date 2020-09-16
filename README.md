@@ -7,4 +7,4 @@
 * Unsupervised machine learning (clustering).
 * Recommandation system(content based filtering & collaborative filtering).
 
-**3** Model Evaluation and decision making.
+**3** - Model Evaluation and decision making.
